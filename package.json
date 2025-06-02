@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eketeUg/greeter/issues"
   },
-  "homepage": "https://github.com/eketeUg/greeter#readme"
+  "homepage": "https://github.com/eketeUg/greeter#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
 }
